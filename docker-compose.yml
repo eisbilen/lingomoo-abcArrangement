@@ -1,0 +1,6 @@
+version: "3.7"
+services:
+  abc_arrangement:
+    build: './abc_arrangement'
+    volumes:
+      - /Users/erdemisbilen/Code:/data
